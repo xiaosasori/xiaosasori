@@ -3,7 +3,7 @@ I'm a fullstack developer who loves working with Vue and Javascript.
 
 When I'm not working, I like to create and improve personal side projects to practice newly-acquired skills.  
 
-🤔🤔🤔
+🤔🌱😄
 <!--
 **xiaosasori/xiaosasori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm still working on solidifying my understanding of Nuxt, and plan to follow that up with learning Go and building full-stack applications.
