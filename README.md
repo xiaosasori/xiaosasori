@@ -24,8 +24,8 @@ When I'm not working, I like to create and improve personal side projects to pra
 <a href="https://github-readme-stats.vercel.app/api?username=xiaosasori&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xiaosasori&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaosasori&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaosasori&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaosasori&theme=tokyonight" />
 </a>
 </div>
 
