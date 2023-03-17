@@ -1,18 +1,33 @@
 ### Hi there 👋 I'm Minh Anh.
-I'm a fullstack developer who loves working with Vue and Javascript.
+I'm a fullstack developer who loves working with Vue.js.
 
 When I'm not working, I like to create and improve personal side projects to practice newly-acquired skills.  
 
 🤔🌱😄
 
+## 🔨 Languages and Tools:
+
+![HTML5](https://img.shields.io/badge/html5-090909?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/css3-090909?style=for-the-badge&logo=css3&logoColor=27A0D9)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=tailwindcss&logoColor=27A0D9)
+![VueJS](https://img.shields.io/badge/vue-090909?style=for-the-badge&logo=vue.js&logoColor=42B883)
+![Nuxt](https://img.shields.io/badge/nuxt-090909?style=for-the-badge&logo=nuxt.js&logoColor=42B883)
+![Typescript](https://img.shields.io/badge/yypescript-090909?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Vitest](https://img.shields.io/badge/vitest-090909?style=for-the-badge&logo=vitest&logoColor=6E9F18)
+![Cypress](https://img.shields.io/badge/cypress-090909?style=for-the-badge&logo=cypress&logoColor=fff)
+![Tanstack Query](https://img.shields.io/badge/tanstack%20query-090909?style=for-the-badge&logo=React%20Query&logoColor=FF4154)
+![Nest](https://img.shields.io/badge/nest-090909?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Go](https://img.shields.io/badge/go-090909?style=for-the-badge&logo=go&logoColor=79D4FD)
+![Redis](https://img.shields.io/badge/redis-090909?style=for-the-badge&logo=redis&logoColor=DC382C)
+![MongoDB](https://img.shields.io/badge/mongodb-090909?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/focker-090909?style=for-the-badge&logo=docker&logoColor=27A0D9)
+
 ## 📧 Find me on:
 
-
-<p align="center">
- <a href="https://sad-shaw-405d4f.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Globe" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/anhnm896/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:anhnm896@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+[![Twitter](https://img.shields.io/badge/twitter-090909?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/anhnm896)
+[![LinkedIn](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anhnm896)
+[![Gmail](https://img.shields.io/badge/gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anhnm896@gmail.com)
 
 ## 🏆 My Github Stats:
 
