@@ -12,7 +12,7 @@ When I'm not working, I like to create and improve personal side projects to pra
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=tailwindcss&logoColor=27A0D9)
 ![VueJS](https://img.shields.io/badge/vue-090909?style=for-the-badge&logo=vue.js&logoColor=42B883)
 ![Nuxt](https://img.shields.io/badge/nuxt-090909?style=for-the-badge&logo=nuxt.js&logoColor=42B883)
-![Typescript](https://img.shields.io/badge/yypescript-090909?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Typescript](https://img.shields.io/badge/typescript-090909?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Vitest](https://img.shields.io/badge/vitest-090909?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 ![Cypress](https://img.shields.io/badge/cypress-090909?style=for-the-badge&logo=cypress&logoColor=fff)
 ![Tanstack Query](https://img.shields.io/badge/tanstack%20query-090909?style=for-the-badge&logo=React%20Query&logoColor=FF4154)
