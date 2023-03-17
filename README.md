@@ -21,7 +21,7 @@ When I'm not working, I like to create and improve personal side projects to pra
 ![Redis](https://img.shields.io/badge/redis-090909?style=for-the-badge&logo=redis&logoColor=DC382C)
 ![MongoDB](https://img.shields.io/badge/mongodb-090909?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/focker-090909?style=for-the-badge&logo=docker&logoColor=27A0D9)
+![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=27A0D9)
 
 ## 📧 Find me on:
 
