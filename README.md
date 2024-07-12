@@ -16,6 +16,7 @@ When I'm not working, I like to create and improve personal side projects to pra
 ![Vitest](https://img.shields.io/badge/vitest-090909?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 ![Cypress](https://img.shields.io/badge/cypress-090909?style=for-the-badge&logo=cypress&logoColor=fff)
 ![Tanstack Query](https://img.shields.io/badge/tanstack%20query-090909?style=for-the-badge&logo=React%20Query&logoColor=FF4154)
+![Prisma](https://img.shields.io/badge/prisma-090909?style=for-the-badge&logo=prisma&logoColor=fff)
 ![Nest](https://img.shields.io/badge/nest-090909?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Go](https://img.shields.io/badge/go-090909?style=for-the-badge&logo=go&logoColor=79D4FD)
 ![Redis](https://img.shields.io/badge/redis-090909?style=for-the-badge&logo=redis&logoColor=DC382C)
